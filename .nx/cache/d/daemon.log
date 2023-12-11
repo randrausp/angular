@@ -1,0 +1,86 @@
+[NX Daemon Server] - 2023-12-08T04:38:36.853Z - Started listening on: \\.\pipe\nx\C:\Users\randr\AppData\Local\Temp\9a6fe266c5e40da0f082\d.sock
+[NX Daemon Server] - 2023-12-08T04:38:36.866Z - [WATCHER]: Subscribed to changes within: c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular (native)
+[NX Daemon Server] - 2023-12-08T04:38:36.867Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-08T04:38:36.868Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-08T04:38:36.869Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-08T04:38:36.871Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-08T04:38:37.435Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-08T04:38:37.436Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-08T04:38:37.436Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-08T04:38:37.480Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-08T04:38:37.481Z - Time taken for 'total for creating and serializing project graph' 608.5629999935627ms
+[NX Daemon Server] - 2023-12-08T04:38:37.482Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-08T04:38:37.482Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 608. Response time: 3.
+[NX Daemon Server] - 2023-12-08T04:38:37.485Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-08T04:38:37.485Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-08T04:38:37.486Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-08T04:38:37.486Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-08T04:38:37.487Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-12-08T04:38:37.487Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-12-08T04:38:37.487Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-12-08T04:39:05.222Z - Started listening on: \\.\pipe\nx\C:\Users\randr\AppData\Local\Temp\9a6fe266c5e40da0f082\d.sock
+[NX Daemon Server] - 2023-12-08T04:39:05.225Z - [WATCHER]: Subscribed to changes within: c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular (native)
+[NX Daemon Server] - 2023-12-08T04:39:05.227Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-08T04:39:05.228Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-08T04:39:05.229Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-08T04:39:05.231Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-08T04:39:05.289Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-08T04:39:05.289Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-08T04:39:05.289Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-08T04:39:05.338Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-08T04:39:05.340Z - Time taken for 'total for creating and serializing project graph' 107.32550001144409ms
+[NX Daemon Server] - 2023-12-08T04:39:05.341Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-08T04:39:05.341Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 107. Response time: 3.
+[NX Daemon Server] - 2023-12-08T04:39:05.343Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-08T04:39:05.344Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-08T04:39:05.344Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-08T04:39:05.344Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-08T04:39:05.346Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-12-08T04:39:05.346Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-12-08T04:39:05.346Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2023-12-11T05:43:46.618Z - Started listening on: \\.\pipe\nx\C:\Users\randr\AppData\Local\Temp\9a6fe266c5e40da0f082\d.sock
+[NX Daemon Server] - 2023-12-11T05:43:46.632Z - [WATCHER]: Subscribed to changes within: c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular (native)
+[NX Daemon Server] - 2023-12-11T05:43:46.633Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-11T05:43:46.634Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-11T05:43:46.635Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-11T05:43:46.637Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-11T05:43:47.180Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-11T05:43:47.180Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-11T05:43:47.180Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-11T05:43:47.244Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-11T05:43:47.246Z - Time taken for 'total for creating and serializing project graph' 607.031800031662ms
+[NX Daemon Server] - 2023-12-11T05:43:47.247Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-11T05:43:47.247Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 607. Response time: 3.
+[NX Daemon Server] - 2023-12-11T05:43:47.251Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-11T05:43:47.252Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-11T05:43:47.252Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-11T05:43:47.252Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-11T05:43:47.254Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-12-11T05:43:47.255Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-12-11T05:43:47.255Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-12-11T05:45:20.435Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-11T05:45:20.437Z - [WATCHER]: .vscode/settings.json was created or restored
+[NX Daemon Server] - 2023-12-11T05:45:20.581Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-11T05:45:20.581Z - [REQUEST]: .vscode/settings.json
+[NX Daemon Server] - 2023-12-11T05:45:20.581Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-11T05:45:20.654Z - Time taken for 'hash changed files from watcher' 0.775600016117096ms
+[NX Daemon Server] - 2023-12-11T05:51:20.235Z - Started listening on: \\.\pipe\nx\C:\Users\randr\AppData\Local\Temp\9a6fe266c5e40da0f082\d.sock
+[NX Daemon Server] - 2023-12-11T05:51:20.241Z - [WATCHER]: Subscribed to changes within: c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular (native)
+[NX Daemon Server] - 2023-12-11T05:51:20.243Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-11T05:51:20.244Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-11T05:51:20.246Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-11T05:51:20.248Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-11T05:51:20.361Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-11T05:51:20.361Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-11T05:51:20.362Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-11T05:51:20.443Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-11T05:51:20.446Z - Time taken for 'total for creating and serializing project graph' 195.47040003538132ms
+[NX Daemon Server] - 2023-12-11T05:51:20.447Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-11T05:51:20.447Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 196. Response time: 4.
+[NX Daemon Server] - 2023-12-11T05:51:20.451Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-11T05:51:20.452Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-11T05:51:20.453Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-11T05:51:20.453Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-11T05:51:20.455Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-12-11T05:51:20.455Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-12-11T05:51:20.455Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
