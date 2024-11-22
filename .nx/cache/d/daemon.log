@@ -4107,3 +4107,75 @@ To fix this, set a unique name for each project in a project.json inside the pro
     at async processFilesAndCreateAndSerializeProjectGraph (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:138:17)
 [NX Daemon Server] - 2024-11-22T21:19:45.329Z - Time taken for 'hash changed files from watcher' 0.3849999999999909ms
 [NX Daemon Server] - 2024-11-22T21:19:45.330Z - Done responding to the client null
+[NX Daemon Server] - 2024-11-22T21:19:47.047Z - Started listening on: \\.\pipe\nx\C:\Users\randr\AppData\Local\Temp\9a6fe266c5e40da0f082\d.sock
+[NX Daemon Server] - 2024-11-22T21:19:47.051Z - [WATCHER]: Subscribed to changes within: c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular (native)
+[NX Daemon Server] - 2024-11-22T21:19:47.053Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-22T21:19:47.066Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-11-22T21:19:47.077Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-22T21:19:47.079Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-11-22T21:19:47.203Z - Error detected when recomputing project file map: The following projects are defined in multiple locations:
+- angular: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+[NX Daemon Server] - 2024-11-22T21:19:47.203Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- angular: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- angular: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:130:15)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:102:19)
+    at createProjectConfigurations (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:136:138)
+    at WorkspaceContext.<anonymous> (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:84:54)
+    at getProjectConfigurationsFromContext (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\utils\workspace-context.js:26:29)
+    at _retrieveProjectConfigurations (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:83:65)
+    at retrieveProjectConfigurations (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:59:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processCollectedUpdatedAndDeletedFiles (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:102:34)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:138:17)
+[NX Daemon Server] - 2024-11-22T21:19:47.208Z - Time taken for 'hash changed files from watcher' 19.4683ms
+[NX Daemon Server] - 2024-11-22T21:19:47.208Z - Done responding to the client null
+[NX Daemon Server] - 2024-11-22T21:19:51.529Z - Started listening on: \\.\pipe\nx\C:\Users\randr\AppData\Local\Temp\9a6fe266c5e40da0f082\d.sock
+[NX Daemon Server] - 2024-11-22T21:19:51.532Z - [WATCHER]: Subscribed to changes within: c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular (native)
+[NX Daemon Server] - 2024-11-22T21:19:51.544Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-22T21:19:51.546Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-11-22T21:19:51.546Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-11-22T21:19:51.548Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-11-22T21:19:51.605Z - Error detected when recomputing project file map: The following projects are defined in multiple locations:
+- angular: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+[NX Daemon Server] - 2024-11-22T21:19:51.605Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- angular: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- angular: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:130:15)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:102:19)
+    at createProjectConfigurations (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:136:138)
+    at WorkspaceContext.<anonymous> (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:84:54)
+    at getProjectConfigurationsFromContext (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\utils\workspace-context.js:26:29)
+    at _retrieveProjectConfigurations (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:83:65)
+    at retrieveProjectConfigurations (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:59:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processCollectedUpdatedAndDeletedFiles (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:102:34)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\PROJECTS\SpringWeb\LatheAPI\LatheBook-api\angular\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:138:17)
+[NX Daemon Server] - 2024-11-22T21:19:51.607Z - Time taken for 'hash changed files from watcher' 10.357799999999997ms
+[NX Daemon Server] - 2024-11-22T21:19:51.607Z - Done responding to the client null
